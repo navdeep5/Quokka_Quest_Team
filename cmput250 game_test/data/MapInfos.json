@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
+{"id":2,"expanded":true,"name":"SPOKE1","order":2,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":3,"expanded":false,"name":"Minigame_short","order":3,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":4,"expanded":true,"name":"Minigame_long","order":4,"parentId":2,"scrollX":2457.3333333333335,"scrollY":604},
+{"id":5,"expanded":true,"name":"Minigame_vertical","order":5,"parentId":2,"scrollX":1081.3333333333333,"scrollY":1785.3333333333333}
+]
