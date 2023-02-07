@@ -1,10 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":947.3333333333334,"scrollY":633.3333333333334},
-{"id":2,"expanded":true,"name":"SPOKE1","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
-{"id":3,"expanded":false,"name":"Minigame_short","order":3,"parentId":2,"scrollX":1086,"scrollY":302},
-{"id":4,"expanded":true,"name":"Minigame_long","order":4,"parentId":2,"scrollX":4158,"scrollY":302},
-{"id":5,"expanded":true,"name":"Minigame_vertical","order":5,"parentId":2,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
-{"id":6,"expanded":false,"name":"IntroMap","order":7,"parentId":0,"scrollX":540.6666666666666,"scrollY":412.6666666666667},
+{"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":947.3333333333334,"scrollY":691.3333333333334},
+{"id":2,"expanded":true,"name":"SPOKE1","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":3,"expanded":false,"name":"Minigame_short","order":3,"parentId":2,"scrollX":546,"scrollY":302},
+{"id":4,"expanded":true,"name":"Minigame_long","order":4,"parentId":2,"scrollX":546,"scrollY":302},
+{"id":5,"expanded":true,"name":"Minigame_vertical","order":5,"parentId":2,"scrollX":540.6666666666666,"scrollY":1939.3333333333333},
+{"id":6,"expanded":false,"name":"IntroMap","order":7,"parentId":0,"scrollX":1228.5,"scrollY":691.5},
 {"id":7,"expanded":false,"name":"Rotation_wip","order":6,"parentId":2,"scrollX":546,"scrollY":307.3333333333333}
 ]
