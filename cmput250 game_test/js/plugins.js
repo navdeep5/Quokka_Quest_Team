@@ -7,7 +7,8 @@ var $plugins =
 {"name":"DMY_SkipVideo","status":true,"description":"Skip video on key press","parameters":{"Disabler switch":"0"}},
 {"name":"YEP_SaveEventLocations","status":true,"description":"v1.06 Enable specified maps to memorize the locations of\nevents when leaving and loading them upon reentering map.","parameters":{}},
 {"name":"GALV_MessageBusts","status":true,"description":"(v.2.8) Displays a bust image instead of selected face image","parameters":{"Bust Priority":"1","Bust Position":"1","Text X Offset":"275","Fade Out Speed":"32","Filename Append":""}},
-{"name":"GALV_MessageBackground","status":true,"description":"(v.2.0) Displays an image behind messages in place of the windowskin","parameters":{"Image Variable ID":"1","Disable Switch ID":"1"}},
+{"name":"GALV_MessageBackground","status":true,"description":"(v.2.0) Displays an image behind messages in place of the windowskin","parameters":{"Image Variable ID":"1","Disable Switch ID":"0"}},
 {"name":"SRD_SuperToolsEngine","status":true,"description":"The heart of all maker-style plugins; it adds a playtesting editor that can be opened with F12.","parameters":{"Connect Editor":"true","Auto Open Window":"false","Auto Move Window":"true","Menu Editor Exempt List":"[\"Window_BattleLog\",\"Window_MapName\"]"}},
-{"name":"SRD_HUDMaker","status":true,"description":"Allows developers to create their own map-based HUD through an in-game GUI window!","parameters":{"Active Updating":"false","Show During Events":"transparent","Map Global Condition":"","Battle Global Condition":"","Disable Delete Key":"true"}}
+{"name":"SRD_HUDMaker","status":true,"description":"Allows developers to create their own map-based HUD through an in-game GUI window!","parameters":{"Active Updating":"false","Show During Events":"transparent","Map Global Condition":"","Battle Global Condition":"","Disable Delete Key":"true"}},
+{"name":"Fontsize","status":true,"description":"","parameters":{}}
 ];
