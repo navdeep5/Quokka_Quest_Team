@@ -3,10 +3,10 @@ null,
 {"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":540.6666666666666,"scrollY":395.3333333333333},
 {"id":2,"expanded":true,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":546,"scrollY":315.3333333333333},
 {"id":3,"expanded":true,"name":"Rotation_RC_2","order":7,"parentId":2,"scrollX":546,"scrollY":307.3333333333333},
-{"id":4,"expanded":true,"name":"Wire_RC_1","order":3,"parentId":2,"scrollX":5214,"scrollY":315.3333333333333},
+{"id":4,"expanded":true,"name":"Wire_RC_1","order":3,"parentId":2,"scrollX":5214,"scrollY":302},
 {"id":5,"expanded":true,"name":"Wire_vertical","order":4,"parentId":2,"scrollX":540.6666666666666,"scrollY":320.6666666666667},
 {"id":6,"expanded":false,"name":"IntroMap","order":9,"parentId":0,"scrollX":540.6666666666666,"scrollY":399.3333333333333},
-{"id":7,"expanded":true,"name":"Rotation_RC_1","order":6,"parentId":2,"scrollX":759.3333333333334,"scrollY":440.6666666666667},
+{"id":7,"expanded":true,"name":"Rotation_RC_1","order":6,"parentId":2,"scrollX":546,"scrollY":307.3333333333333},
 {"id":8,"expanded":true,"name":"Rotation_RC_3","order":8,"parentId":2,"scrollX":546,"scrollY":307.3333333333333},
 {"id":9,"expanded":false,"name":"Wire_RC_2","order":5,"parentId":2,"scrollX":546,"scrollY":302}
 ]
