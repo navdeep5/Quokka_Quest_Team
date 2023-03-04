@@ -1739,10 +1739,14 @@ Scene_Load.prototype.initialize = function() {
     this._loadSuccess = false;
 };
 
+
 Scene_Load.prototype.terminate = function() {
     Scene_File.prototype.terminate.call(this);
     if (this._loadSuccess) {
         $gameSystem.onAfterLoad();
+        $gameScreen.clearPictures();
+        $gameScreen.clearZoom();
+        $gameSwitches.setValue(100, false);
     }
 };
 
