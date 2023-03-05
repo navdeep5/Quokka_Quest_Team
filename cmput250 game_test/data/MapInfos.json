@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":811,"scrollY":461},
-{"id":2,"expanded":true,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":728,"scrollY":362.4},
+{"id":2,"expanded":true,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
 {"id":3,"expanded":true,"name":"Rotation_FerrisWheel_2","order":11,"parentId":11,"scrollX":819,"scrollY":461},
 {"id":4,"expanded":true,"name":"Wire_RC_1","order":3,"parentId":2,"scrollX":4941,"scrollY":453},
 {"id":5,"expanded":true,"name":"Wire_Ferris_Wheel_1","order":8,"parentId":11,"scrollX":811,"scrollY":503},
