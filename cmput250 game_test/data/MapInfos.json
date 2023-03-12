@@ -1,20 +1,20 @@
 [
 null,
-{"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":767.1111111111111,"scrollY":571.1111111111111},
-{"id":2,"expanded":true,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":728,"scrollY":396},
+{"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":false,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":655.2,"scrollY":368.8},
 {"id":3,"expanded":true,"name":"Rotation_FerrisWheel_2","order":16,"parentId":17,"scrollX":728,"scrollY":396},
 {"id":4,"expanded":true,"name":"Wire_RC_1","order":3,"parentId":2,"scrollX":5032,"scrollY":388.8888888888889},
 {"id":5,"expanded":true,"name":"Wire_Ferris_Wheel_1","order":13,"parentId":17,"scrollX":720.8888888888889,"scrollY":396},
-{"id":6,"expanded":true,"name":"IntroMap(Add tutorial here)","order":7,"parentId":0,"scrollX":728,"scrollY":396},
+{"id":6,"expanded":false,"name":"IntroMap(Add tutorial here)","order":7,"parentId":0,"scrollX":655.2,"scrollY":368.8},
 {"id":7,"expanded":true,"name":"Rotation_RC_1","order":5,"parentId":2,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
 {"id":8,"expanded":true,"name":"Rotation_RC_2","order":6,"parentId":2,"scrollX":728,"scrollY":396},
 {"id":9,"expanded":false,"name":"Wire_RC_2","order":4,"parentId":2,"scrollX":5032,"scrollY":388.8888888888889},
-{"id":10,"expanded":true,"name":"SPOKE3(Log Ride)","order":11,"parentId":0,"scrollX":728,"scrollY":396},
+{"id":10,"expanded":true,"name":"SPOKE3(Log Ride)","order":11,"parentId":0,"scrollX":784.8,"scrollY":362.4},
 null,
 {"id":12,"expanded":true,"name":"Rotation_FerrisWheel_1","order":15,"parentId":17,"scrollX":728,"scrollY":396},
 {"id":13,"expanded":true,"name":"Wire_Ferris_Wheel_2","order":14,"parentId":17,"scrollX":720.8888888888889,"scrollY":396},
-{"id":14,"expanded":true,"name":"Wire_Tutorial_1","order":8,"parentId":6,"scrollX":728,"scrollY":388.8888888888889},
-{"id":15,"expanded":true,"name":"Rotation_Tutorial_1","order":9,"parentId":6,"scrollX":728,"scrollY":396},
-{"id":16,"expanded":true,"name":"EndingMap","order":10,"parentId":0,"scrollX":759.3333333333334,"scrollY":440.6666666666667},
-{"id":17,"expanded":true,"name":"SPOKE2(Ferris Wheel)","order":12,"parentId":0,"scrollX":728,"scrollY":396}
+{"id":14,"expanded":true,"name":"Wire_Tutorial_1","order":8,"parentId":6,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
+{"id":15,"expanded":true,"name":"Rotation_Tutorial_1","order":9,"parentId":6,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
+{"id":16,"expanded":true,"name":"EndingMap","order":10,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":17,"expanded":false,"name":"SPOKE2(Ferris Wheel)","order":12,"parentId":0,"scrollX":655.2,"scrollY":368.8}
 ]
