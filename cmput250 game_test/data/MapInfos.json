@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"HUB","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
-{"id":2,"expanded":true,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":2,"expanded":false,"name":"SPOKE1(Roller Coaster)","order":2,"parentId":0,"scrollX":655.2,"scrollY":368.8},
 {"id":3,"expanded":true,"name":"Rotation_FerrisWheel_2","order":14,"parentId":17,"scrollX":728,"scrollY":409.77777777777777},
 {"id":4,"expanded":true,"name":"Wire_RC_1","order":3,"parentId":2,"scrollX":5032,"scrollY":402.6666666666667},
 {"id":5,"expanded":true,"name":"Wire_Ferris_Wheel_1","order":11,"parentId":17,"scrollX":720.8888888888889,"scrollY":409.77777777777777},
@@ -16,5 +16,5 @@ null,
 {"id":14,"expanded":true,"name":"Wire_Tutorial_1","order":8,"parentId":6,"scrollX":728,"scrollY":402.6666666666667},
 {"id":15,"expanded":true,"name":"Rotation_Tutorial_1","order":9,"parentId":6,"scrollX":728,"scrollY":409.77777777777777},
 null,
-{"id":17,"expanded":true,"name":"SPOKE2(Ferris Wheel)","order":10,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
+{"id":17,"expanded":false,"name":"SPOKE2(Ferris Wheel)","order":10,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
 ]
